@@ -1,0 +1,43 @@
+{
+  "name": "jonluca",
+  "description": "It's me, Feross!",
+  "version": "1.0.0",
+  "author": {
+    "name": "JonLuca DeCaro",
+    "email": "jonluca@jonlu.ca",
+    "url": "https://jonlu.ca/"
+  },
+  "bin": {
+    "jonluca": "./bin/cmd.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jonluca/jonluca/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "standard": "*"
+  },
+  "homepage": "https://github.com/jonluca/jonluca",
+  "keywords": [
+    "business card",
+    "card",
+    "jonluca",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card"
+  ],
+  "license": "MIT",
+  "main": "./bin/cmd.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonluca/jonluca.git"
+  },
+  "scripts": {
+    "build": "node ./tools/build.js",
+    "start": "npm run build && ./bin/cmd.js",
+    "test": "standard"
+  }
+}
