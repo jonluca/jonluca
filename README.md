@@ -1,15 +1,15 @@
-## NPM Business Card
-
-## Usage
-
-To see my `npm` business card, just run:
-
-```
-npx jonluca
-```
-
-Inspired by [feross](https://github.com/feross/feross) and [bitandbang](https://github.com/bnb/bitandbang)'s card!
-
-## License
-
-MIT. Copyright (c) [JonLuca DeCaro](https://jonlu.ca).
+   ╭───────────────────────────────────────────────────────────────────────╮
+   │                                                                       │
+   │                  JonLuca DeCaro / jonluca                             │
+   │                                                                       │
+   │          Work:  Developer, Project Manager, and Security Researcher   │
+   │       Twitter:  https://twitter.com/jonlucadecaro                     │
+   │           npm:  https://npmjs.com/~jonluca                            │
+   │        GitHub:  https://github.com/jonluca                            │
+   │      LinkedIn:  https://linkedin.com/in/jonluca                       │
+   │           Web:  https://jonlu.ca                                      │
+   │          Blog:  https://blog.jonlu.ca                                 │
+   │                                                                       │
+   │          Card:  npx jonluca                                           │
+   │                                                                       │
+   ╰───────────────────────────────────────────────────────────────────────╯
