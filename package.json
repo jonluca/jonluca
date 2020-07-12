@@ -1,7 +1,7 @@
 {
   "name": "jonluca",
   "description": "JonLuca's npm business card!",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "JonLuca DeCaro",
     "email": "jonluca@jonlu.ca",
@@ -15,8 +15,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "boxen": "^4.1.0",
-    "chalk": "^2.4.2",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
     "standard": "*"
   },
   "homepage": "https://github.com/jonluca/jonluca",
