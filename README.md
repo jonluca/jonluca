@@ -1,7 +1,7 @@
 
 Hi! 
 
-I'm <a href="https://twitter.com/jonluca"><b>JonLuca DeCaro</b></a>. I grew up in north east Italy, and moved to the United States in 2014. I'm currently a Growth Engineer in San Francisco, CA at Pinterest.
+I'm <a href="https://twitter.com/jonluca"><b>JonLuca DeCaro</b></a>. I grew up in north east Italy, and moved to the United States in 2014. I'm currently a Software Engineer in New York, NY at Citadel.
 
 ## Blog
 
